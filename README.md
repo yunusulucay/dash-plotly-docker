@@ -1,6 +1,6 @@
 # Deploying a Dashboard by Dash Plot using Daily Climate Dataset
 
-A dashboard created using Plotly's Dash library. There are 3 options in the dashboard. You can select plot types using radio buttons. In this dashboard I plotted histogram, line and scatter plots of dailyClimate dataframe. You can use another dataframe. But be careful on dataframe's index.
+The dashboard was created using Plotly's Dash library. There are 3 options in the dashboard. You can select plot types using radio buttons. In this dashboard I plotted histogram, line and scatter plots of dailyClimate dataframe. You can use another dataframe. But be careful on dataframe's index.
 
 ![line_plot](https://user-images.githubusercontent.com/42489236/153923206-72a43915-0a28-40d8-a184-1813321de0df.png)
 

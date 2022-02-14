@@ -2,7 +2,7 @@
 
 A dashboard created using Plotly's Dash library. There are 3 options in the dashboard. You can select plot types using radio buttons. In this dashboard I plotted histogram, line and scatter plots of dailyClimate dataframe. You can use another dataframe. But be careful on dataframe's index.
 
-<img src="https://user-images.githubusercontent.com/42489236/153922414-3c8a3f46-7cb6-4c01-b4e2-f95e5605f114.png" data-canonical-src="https://user-images.githubusercontent.com/42489236/153922414-3c8a3f46-7cb6-4c01-b4e2-f95e5605f114.png" width="300" height="300" /><img src="https://user-images.githubusercontent.com/42489236/153922464-9b305880-9940-4880-800b-391323c22e6a.png" data-canonical-src="https://user-images.githubusercontent.com/42489236/153922464-9b305880-9940-4880-800b-391323c22e6a.png" width="300" height="300" /><img src="https://user-images.githubusercontent.com/42489236/153922499-0ca19c56-c3f0-40bf-af8a-980bfb4b891a.png" data-canonical-src="https://user-images.githubusercontent.com/42489236/153922499-0ca19c56-c3f0-40bf-af8a-980bfb4b891a.png" width="300" height="300" />
+<img src="https://user-images.githubusercontent.com/42489236/153922464-9b305880-9940-4880-800b-391323c22e6a.png" data-canonical-src="https://user-images.githubusercontent.com/42489236/153922464-9b305880-9940-4880-800b-391323c22e6a.png" width="450" height="450" /><img src="https://user-images.githubusercontent.com/42489236/153922499-0ca19c56-c3f0-40bf-af8a-980bfb4b891a.png" data-canonical-src="https://user-images.githubusercontent.com/42489236/153922499-0ca19c56-c3f0-40bf-af8a-980bfb4b891a.png" width="450" height="450" />
 
 ### Quick Usage
 

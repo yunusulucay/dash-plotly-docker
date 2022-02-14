@@ -9,6 +9,7 @@ I assume docker is installed on your system. Go to Dockerfile directory and open
 ### DataFrame Overview
 
 Dataframe that I used in this project.
+
 ![dataframe_head](https://user-images.githubusercontent.com/42489236/153916745-de049861-bc3c-4557-9043-7941e8f06941.png)
 
 ### Deploying Docker on AWS
